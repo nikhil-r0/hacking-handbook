@@ -7,7 +7,7 @@ tags: [nmap, gobuster, base64, base62, md5, hashcat, steghide, ssh, cron, revers
 platform: TryHackMe
 year: 2025
 date: 2025-10-26
-----------------
+---
 
 # 🧩 EasyPeasy CTF (TryHackMe)
 
