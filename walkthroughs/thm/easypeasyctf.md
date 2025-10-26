@@ -2,7 +2,7 @@
 
 title: EasyPeasy CTF
 category: Privilege Escalation
-difficulty: Medium
+difficulty: Easy
 tags: [nmap, gobuster, base64, base62, md5, hashcat, steghide, ssh, cron, reverse shell, privilege escalation]
 platform: TryHackMe
 year: 2025
